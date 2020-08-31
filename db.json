@@ -1,0 +1,32 @@
+{
+    "curses" : [
+        {
+            "id": 1,
+            "title": "React desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg",
+            "price": 40,
+            "professor" : "Beto Quiroga"
+        },
+        {
+            "id": 2,
+            "title": "CSS desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/daa72e4e-c5d0-406e-9f6d-01e646bf719b.png",
+            "price": 80,
+            "professor" : "Alvaro Felipe"
+        },
+        {
+            "id": 3,
+            "title": "Html desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/26557907-0555-427e-a40c-6ff207f98d72.png",
+            "price": 20,
+            "professor" : "Alvaro Felipe"
+        },
+        {
+            "id": 4,
+            "title": "Javascript desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/61e5a210-8dab-412e-a6dc-802c070cc18c.jpg",
+            "price": 10,
+            "professor" : "Beto Quiroga"
+        }
+    ]
+}
